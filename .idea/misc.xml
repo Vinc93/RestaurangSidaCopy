@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/vince/AndroidStudioProjects/RestaurangSida/app/src/main/res/layout/TestActivity.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/vince/AndroidStudioProjects/RestaurangSida/app/src/main/res/layout/activity_knapp_exemple.xml" value="0.2015625" />
         <entry key="..\:/Users/vince/AndroidStudioProjects/RestaurangSida/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/vince/AndroidStudioProjects/RestaurangSida/app/src/main/res/layout/activity_main2.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/vince/AndroidStudioProjects/RestaurangSida/app/src/main/res/layout/list_item.xml" value="0.33" />
+        <entry key="..\:/Users/vince/AndroidStudioProjects/RestaurangSida/app/src/main/res/layout/rest_img_text.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/vince/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_expandable_list_item_1.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>

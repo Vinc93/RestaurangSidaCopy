@@ -10,7 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.RestaurangSida">
         <activity
-            android:name=".MainActivity"
+            android:name=".CartTest"
+            android:exported="false" />
+        <activity
+            android:name=".MenySida"
+            android:exported="false" />
+        <activity
+            android:name=".KöpSida"
+            android:exported="false" />
+        <activity
+            android:name=".TestActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
